@@ -1,12 +1,19 @@
-<h1 align="center">MamiPatch</h3>
+<h1 align="center">MamiPatch</h1>
 
 A patch for the game 巴マミTPS
 
-<h1 align="left">About</h3>
+<h1 align="left">About</h1>
 
 I've created a patch for the game 巴マミTPS which improves on several aspects of the original experience
 
-<h1 align="left">Features</h3>
+<h1 align="left">Screenshots</h1>
+
+<img src="https://cdn.imagetourls.com/uploads/tyImg/OSjBYOoB.png" Width="300">
+<img src="https://cdn.imagetourls.com/uploads/tyImg/1cWXSVMPb.png" Width="300">
+<img src="https://cdn.imagetourls.com/uploads/tyImg/1boEYv7Bx.png" Width="300">
+<img src="https://cdn.imagetourls.com/uploads/tyImg/TQJRVWJT.png" Width="300">
+
+<h1 align="left">Features</h1>
 
 • Spanish translation.
 
@@ -14,7 +21,7 @@ I've created a patch for the game 巴マミTPS which improves on several aspects
 
 • Full-Screen support
 
-<h1 align="left">Known Issues</h3>
+<h1 align="left">Known Issues</h1>
 
 There are no known errors yet. If you find one, feel free to let me know on Reddit or here.
 
