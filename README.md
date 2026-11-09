@@ -22,6 +22,7 @@ There are no known errors yet. If you find one, feel free to let me know on Redd
 One thing before I go: If you have a phone with a high-resolution display, the buttons may appear too small. I'll try to fix this in a future patch.
 
 **You Need**:
+
 • Original game APK
 
 • APKTool M (or an alternative).
