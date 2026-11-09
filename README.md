@@ -1,4 +1,5 @@
-# MamiPatch
+<h1 align="center">MamiPatch</h3>
+
 A patch for the game 巴マミTPS
 
 <h1 align="left">About</h3>
