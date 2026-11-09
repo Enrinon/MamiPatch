@@ -23,7 +23,7 @@ I've created a patch for the game 巴マミTPS which improves on several aspects
 
 <h1 align="left">Known Issues</h1>
 
-There are no known errors yet. If you find one, feel free to let me know on Reddit or here.
+There are no known issues at the moment. If you find any, feel free to let me know on Reddit or here.
 
 <h1 align="left">Your Choice</h1>
 
