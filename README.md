@@ -23,7 +23,7 @@ I've created a patch for the game 巴マミTPS which improves on several aspects
 
 <h1 align="left">Known Issues</h1>
 
-There are no known issues at the moment. If you find any, feel free to let me know on Reddit or here.
+• The buttons on large screens are quite small.
 
 <h1 align="left">Your Choice</h1>
 
