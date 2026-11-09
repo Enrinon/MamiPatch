@@ -27,13 +27,14 @@ There are no known errors yet. If you find one, feel free to let me know on Redd
 
 <h1 align="left">Your Choice</h1>
 
-You can choose between just the patch that only adds compatibility with Android 12 or higher, or with the Spanish translation and the same patch
+You can choose between two versions: one that only adds:
+Android 12+ compatibility, and another that includes both Android 12+ compatibility and the Spanish translation.
 
 <h1 align="left">How to use?</h1>
 
 One thing before I go: If you have a phone with a high-resolution display, the buttons may appear too small. I'll try to fix this in a future patch.
 
-**You Need**:
+**Requirements**:
 
 • Original game APK
 
@@ -47,4 +48,16 @@ One thing before I go: If you have a phone with a high-resolution display, the b
 
 To use my patch file, you'll need to decompile your original game with a tool, in my case, I used APKTool M for this, but if you want, you can use another specialized program to decompile.
 
-You have to open your program if you have already downloaded it, look for a function called decompile (or "descompilar" in Spanish) and wait for a certain amount of time until the tool finishes decompiling, after the decompilation has finished, add the files from the zip to the decompiled folder (do not copy apktool.json if you didn't use APKTool M), after that, compile the project (set minsdk to 24 or higher and targetsdk to exactly 37), and you're done.
+• Open your decompilation tool.
+
+• Look for a function called "Decompile".
+
+• Wait for the tool to finish decompiling.
+
+• Add the files from the ZIP to the decompiled project folder.
+
+• (only if you didn't use APKTool M) Do not copy apktool.json if you didn't use APKTool M.
+
+• Compile the project with minSdkVersion set to 24 or higher and targetSdkVersion set to exactly 37
+
+And you're done.
