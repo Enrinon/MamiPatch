@@ -30,7 +30,11 @@ I've created a patch for the game 巴マミTPS which improves on several aspects
 You can choose between two versions: one that only adds
 Android 12+ compatibility, and another that includes both Android 12+ compatibility and the Spanish translation.
 
-<h1 align="left">How to use?</h1>
+<h1 align="left">Updates</h1>
+
+I don't promise regular patch updates, since I've already completed most of the work. However, I'll still try to fix any annoying issues when I have the time.
+
+<h1 align="left">How to use</h1>
 
 One thing before I go: If you have a phone with a high-resolution display, the buttons may appear too small. I'll try to fix this in a future patch.
 
