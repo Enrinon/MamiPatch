@@ -52,6 +52,8 @@ One thing before I go: If you have a phone with a high-resolution display, the b
 
 To use my patch file, you'll need to decompile your original game with a tool, in my case, I used APKTool M for this, but if you want, you can use another specialized program to decompile.
 
+**Download in the releases**
+
 • Open your decompilation tool.
 
 • Look for a function called "Decompile".
