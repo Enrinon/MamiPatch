@@ -27,7 +27,7 @@ There are no known errors yet. If you find one, feel free to let me know on Redd
 
 <h1 align="left">Your Choice</h1>
 
-You can choose between two versions: one that only adds:
+You can choose between two versions: one that only adds
 Android 12+ compatibility, and another that includes both Android 12+ compatibility and the Spanish translation.
 
 <h1 align="left">How to use?</h1>
