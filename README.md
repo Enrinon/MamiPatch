@@ -13,11 +13,11 @@ I've created a patch for the game 巴マミTPS which improves on several aspects
 
 <h1 align="left">Screenshots</h1>
 
-<img src="https://cdn.imagetourls.com/uploads/tyImg/OSjBYOoB.png" Width="300">
-<img src="https://cdn.imagetourls.com/uploads/tyImg/1cWXSVMPb.png" Width="300">
-<img src="https://cdn.imagetourls.com/uploads/tyImg/1boEYv7Bx.png" Width="300">
-<img src="https://cdn.imagetourls.com/uploads/tyImg/TQJRVWJT.png" Width="300">
-<img src="https://cdn.imagetourls.com/uploads/tyImg/1996bCfng.png" Width="300">
+<img src="Screenshots/TPS Featuring Mami (1).png" Width="300">
+<img src="Screenshots/TPS Featuring Mami (2).png" Width="300">
+<img src="Screenshots/TPS Featuring Mami (3).png" Width="300">
+<img src="Screenshots/TPS Featuring Mami (4).png" Width="300">
+<img src="Screenshots/TPS Featuring Mami (5).png" Width="300">
 
 <h1 align="left">Features</h1>
 
