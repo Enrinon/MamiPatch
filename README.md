@@ -5,7 +5,7 @@
 
 <h3 align="Center">A patch for the game 巴マミTPS</h3>
 
-<h3 align="Center">Version 1</h3>
+<h3 align="Center">Version 2.0</h3>
 
 <h1 align="left">About</h1>
 
