@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://cdn.imagetourls.com/uploads/tyImg/xviYFNOs.png" alt="Descripción" width="200">
+</p>
 <h1 align="center">MamiPatch</h1>
 
 <h3 align="Center">A patch for the game 巴マミTPS</h3>
