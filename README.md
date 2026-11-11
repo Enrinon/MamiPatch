@@ -11,6 +11,10 @@
 
 I've created a patch for the game 巴マミTPS which improves on several aspects of the original experience
 
+**Important**: 
+
+• The patch contains only modified files, not the complete game.
+
 <h1 align="left">Screenshots</h1>
 
 <img src="Screenshots/TPS Featuring Mami (1).png" Width="300">
@@ -51,10 +55,6 @@ I don't promise regular patch updates, since I've already completed most of the 
 • APKTool M (or an alternative).
 
 • Patch.zip
-
-**Important**: 
-
-• The patch contains only modified files, not the complete game.
 
 To use my patch file, you'll need to decompile your original game with a tool, in my case, I used APKTool M for this, but if you want, you can use another specialized program to decompile.
 
