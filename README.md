@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.imagetourls.com/uploads/tyImg/xviYFNOs.png" alt="Descripción" width="200">
+  <img src="Screenshots/Logo.png" alt="Descripción" width="200">
 </p>
 <h1 align="center">MamiPatch</h1>
 
