@@ -29,9 +29,7 @@ I've created a patch for the game 巴マミTPS which improves on several aspects
 
 <h1 align="left">Known Issues</h1>
 
-• The buttons may appear too small on devices with large, high-resolution displays.
-
-<img src="https://cdn.imagetourls.com/uploads/tyImg/qBhQ1HNC.png" Width="300">
+• No problematic issues are known
 
 <h1 align="left">Your Choice</h1>
 
