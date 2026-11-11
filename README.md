@@ -25,7 +25,7 @@ I've created a patch for the game 巴マミTPS which improves on several aspects
 
 • Improved Android 12+ compatibility.
 
-• Full-Screen support
+• Full-Screen support.
 
 <h1 align="left">Known Issues</h1>
 
