@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">MamiPatch</h1>
 
-<h3 align="Center">A patch for the game 巴マミTPS</h3>
+<h3 align="Center">A patch for the game: 巴マミTPS</h3>
 
 <h3 align="Center">Version 2.0</h3>
 
