@@ -42,8 +42,6 @@ I don't promise regular patch updates, since I've already completed most of the 
 
 <h1 align="left">How to use</h1>
 
-One thing before I go: If you have a phone with a high-resolution display, the buttons may appear too small. I'll try to fix this in a future patch.
-
 **Requirements**:
 
 • Original game APK
