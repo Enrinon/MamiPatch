@@ -17,7 +17,7 @@ I've created a patch for the game 巴マミTPS which improves on several aspects
 
 **Extra**:
 
-I tested this in a Moto G86, with arm64-v8a
+I tested this in a Moto G86, with arm64-v8a, but I don't know if it will work on other devices.
 
 <h1 align="left">Screenshots</h1>
 
