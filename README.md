@@ -27,6 +27,10 @@ I tested this in a Moto G86, with arm64-v8a, but I don't know if it will work on
 <img src="Screenshots/TPS Featuring Mami (4).png" Width="300">
 <img src="Screenshots/TPS Featuring Mami (5).png" Width="300">
 
+<h1 align="left">YouTube Video</h1>
+
+https://youtu.be/YokEMdlYmyE?si=ry8Epp7O8i-nE6fM
+
 <h1 align="left">Features</h1>
 
 • Spanish translation.
