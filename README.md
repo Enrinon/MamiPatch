@@ -15,6 +15,10 @@ I've created a patch for the game 巴マミTPS which improves on several aspects
 
 • The patch contains only modified files, not the complete game.
 
+**Extra**:
+
+I tested this in a Moto G86, with arm64-v8a
+
 <h1 align="left">Screenshots</h1>
 
 <img src="Screenshots/TPS Featuring Mami (1).png" Width="300">
