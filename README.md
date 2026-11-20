@@ -56,6 +56,9 @@ I don't promise regular patch updates, since I've already completed most of the 
 
 **Mods**
 
+<p align="center">
+  <img src="Screenshots/Image.png" alt="MamiPatch Logo" width="200">
+
 I can probably add the mods feature
 
 <h1 align="left">How to use</h1>
