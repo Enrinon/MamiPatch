@@ -54,6 +54,10 @@ Android 12+ compatibility, and another that includes both Android 12+ compatibil
 
 I don't promise regular patch updates, since I've already completed most of the work. However, I'll still try to fix any annoying issues when I have the time.
 
+**Mods**
+
+I can probably add the mods feature
+
 <h1 align="left">How to use</h1>
 
 **Requirements**:
